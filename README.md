@@ -8,8 +8,9 @@ Este projeto consiste num Sistema de Avaliação de Estoque e Tendência de Vinh
 
 
 ## Links
-- **Repositório GitHub:** 
-- **GitHub Pages:** 
+- **Repositório GitHub:** https://github.com/brttdev/vinheria-agnello-checkpoint02.git
+
+- **GitHub Pages:** https://brttdev.github.io/vinheria-agnello-checkpoint02/
 
 ## Como Executar
 Aceda ao link do GitHub Pages ou abra o ficheiro `index.html` num navegador. O sistema irá interagir automaticamente através de janelas `prompt` e `alert`.
